@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy <b>Jerónimo Sahagún</b>.  Más argentino que el mate y el dulce de leche.<br><br>Desarrollador Semi-Senior Genexus en busca de un aprendizaje constante</p>
+<p align="left">Soy <b>Jerónimo Sahagún</b>.  Más argentino que el mate y el dulce de leche.<br><br>Desarrollador Junior Genexus en busca de un aprendizaje constante</p>
 
 ###
 

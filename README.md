@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 <b>Trabajando</b> en una API que simplifica las peticiones a Notion adaptado a mis bases de datos. Buscador para mi gestor de lecturas<br>📚 <b>Aprendiendo</b> tecnologías de Python y Angular<br>🎯 <b>Objetivos</b>: Crear y compartir mis propias aplicaciones unitarias hasta crear un ecosistema escalable y relacionado<br>🎲 <b>Dato curioso</b>: Soy Licenciado en Nutrición (Dietista/Nutricionista), pero la vida me llevó por otros caminos<br>📄 <b>Experiencias</b>: <br>-Desarrollé un módulo personalizado de pantallas de Gestión y ABM para Usuarios, Roles, Permisos y configuración de Genexus Access Manager<br>-Bot de Telegram conectado con mi gestor de Gastos en Notion</p>
+<p align="left">🔭 <b>Trabajando</b> en una API que simplifica las peticiones a Notion adaptado a mis bases de datos. Buscador para mi gestor de lecturas<br>📚 <b>Aprendiendo</b> tecnologías de Python y Angular<br>🎯 <b>Objetivos</b>: Crear y compartir mis propias aplicaciones unitarias hasta crear un ecosistema escalable y relacionado<br>🎲 <b>Dato curioso</b>: Soy Licenciado en Nutrición (Dietista/Nutricionista), pero la vida me llevó por otros caminos<br>📄 <b>Experiencias</b>: <br>-Desarrollé un módulo personalizado de pantallas de Gestión y ABM para Usuarios, Roles, Permisos y configuración de Genexus Access Manager<br>-Creé un User Control dropdown múltiple, con filtrado y posibilidad de seleccionar todos. Customible y aplicando la librería SemanticUI<br>-Bot de Telegram conectado con mi gestor de Gastos en Notion</p>
 
 ###
 
